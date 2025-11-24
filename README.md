@@ -77,6 +77,7 @@ int main()
 
  
 # Output:
+<img width="1088" height="766" alt="image" src="https://github.com/user-attachments/assets/af474e37-0aac-4411-ac61-97de2fe5a710" />
 
 
 
